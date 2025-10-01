@@ -28,7 +28,7 @@ This project uses **OpenCV**, **Mediapipe**, and **Python** to detect **eye blin
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/saramseibi/Conducting-state-analysis-using-AI-to-preventaccidents.git)
+   git clone https://github.com/saramseibi/Conducting-state-analysis-using-AI-to-preventaccidents.git
    cd eye-blink-detection
    ```
 2.Install dependencies:
